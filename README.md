@@ -19,6 +19,5 @@ How to run:-
     -Use 6 to start Heap Sort Algorithm.
     -Use q to exit out of Sorting Visualizer
 
-Sample Run Video:-
-![sample_vid](https://github.com/user-attachments/assets/05581ab8-2735-4b38-9259-b5426ebaec16)
+
 ![sample_vid](https://github.com/user-attachments/assets/2e4eeb91-672f-4494-9827-5132d8a8d006)
