@@ -4,9 +4,6 @@
 #include<time.h>
 #include<string>
 #include <string.h>
-#undef main
-#undef SDL_PollEvent
-#undef SDL_Delay
 
 using namespace std;
 
